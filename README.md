@@ -1,4 +1,4 @@
-# Social newsreade
+# Social news-reader
 
 ## To build the project follow below steps:
 
